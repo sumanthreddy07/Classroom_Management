@@ -1,8 +1,8 @@
 # Classroom Management System
 
 ## Team Info
-Naman Manish Trivedi (181CO156)<br/>
-K V Sumanth Reddy (181CO225)
+Naman Manish Trivedi ([@namanmanishtrivedi](https://github.com/namanmanishtrivedi))
+K V Sumanth Reddy ([@sumanthreddy07](https://github.com/sumanthreddy07))
 
 
 #### Install components
