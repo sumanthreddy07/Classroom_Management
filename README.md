@@ -1,8 +1,8 @@
 # Classroom Management System
 
 ## Team Info
-Naman Manish Trivedi ([@namanmanishtrivedi](https://github.com/namanmanishtrivedi))
-K V Sumanth Reddy ([@sumanthreddy07](https://github.com/sumanthreddy07))
+- Naman Manish Trivedi ([@namanmanishtrivedi](https://github.com/namanmanishtrivedi))
+- K V Sumanth Reddy ([@sumanthreddy07](https://github.com/sumanthreddy07))
 
 
 #### Install components
@@ -30,20 +30,20 @@ cd roombooking
 python manage.py test book
 ```
 ## Faculty scenarios
-A new user can signup and if already a user he/she can login<br/>
-Any authanticated user can create a new room booking<br/>
-User can view his past bookings and can edit or delete the bookings which are not yet done<br/>
+* A new user can signup and if already a user he/she can login
+* Any authanticated user can create a new room booking
+* User can view his past bookings and can edit or delete the bookings which are not yet done
 
 ## Manager scenarios
-A new user can signup as a manager and if already a user he/she can login<br/>
-Any authenticated manager can view all the room bookings, details of the customers and the vacancy status of all the room<br/>
-Manager can create new time slots and define the maximum days for an advance booking<br/>
-Manager can add a new room<br/>
-Manager can delete or edit time slots but the changes to be done only after 'n' days here 'n' is the maximum days for an advance booking<br/>
-Manager can edit or delete the time slots only once a day<br/>
-These restictions are allpied by keeping in mind the bookings which are already created when these time slots existed<br/>
-Due to this different dates may have different time slots<br/>
-Faculty, while creating a new booking will choose the date and the time slot will dynamically loaded on the basis of the date chosen<br/>
+* A new user can signup as a manager and if already a user he/she can login
+* Any authenticated manager can view all the room bookings, details of the customers and the vacancy status of all the room
+* Manager can create new time slots and define the maximum days for an advance booking
+* Manager can add a new room
+* Manager can delete or edit time slots but the changes to be done only after 'n' days here 'n' is the maximum days for an advance booking
+* Manager can edit or delete the time slots only once a day
+* These restictions are allpied by keeping in mind the bookings which are already created when these time slots existed
+* Due to this different dates may have different time slots
+* Faculty, while creating a new booking will choose the date and the time slot will dynamically loaded on the basis of the date chosen
 
 ## API
 Have created API for creating a new time slot<br/>
