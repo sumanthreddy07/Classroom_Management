@@ -1,7 +1,7 @@
 # Classroom Management System
 
 ## Team Info
-- Naman Manish Trivedi ([@namanmanishtrivedi](https://github.com/namanmanishtrivedi))
+- Naman Manish Trivedi ([@namanmanish](https://github.com/namanmanish))
 - K V Sumanth Reddy ([@sumanthreddy07](https://github.com/sumanthreddy07))
 
 
